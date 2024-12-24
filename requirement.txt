@@ -1,37 +1,17 @@
-# Dependencies for Vital Signs Monitoring System
+" Perangkat Lunak (Software) "
+Python 3.x: Aplikasi ini ditulis dengan Python, jadi pengguna harus menginstal Python 3.x di sistem mereka. Versi 3.6 atau lebih tinggi dianjurkan.
 
-# Core Dependencies
-opencv-python>=4.8.0  # Computer vision and image processing
-numpy>=1.24.0        # Numerical computing
-matplotlib>=3.7.0    # Data visualization
-scipy>=1.10.0        # Signal processing
 
-# Optional but Recommended
-python-dotenv>=0.19.0  # Environment variable management
-pillow>=9.0.0         # Image processing support
-pandas>=2.0.0         # Data manipulation (if needed for data export)
+" Library yang Diperlukan: "
 
-# Development Dependencies (optional)
-pytest>=7.0.0        # Testing
-black>=22.0.0        # Code formatting
-flake8>=6.0.0        # Code linting
-ipython>=8.0.0       # Interactive Python shell
+- OpenCV: Untuk mengakses kamera dan memproses frame video.
+Cara install: pip install opencv-python
 
-# System Requirements
-# Python >= 3.6
-# pip (latest version)
-# Virtual environment recommended
+- NumPy: Untuk manipulasi array dan perhitungan numerik.
+Cara install: pip install numpy
 
-# Installation Instructions
-# 1. Create virtual environment:
-#    python -m venv venv
-#
-# 2. Activate virtual environment:
-#    Windows: venv\Scripts\activate
-#    Unix/macOS: source venv/bin/activate
-#
-# 3. Install dependencies:
-#    pip install -r requirements.txt
-#
-# Note: Some systems might require additional system-level dependencies
-# for OpenCV. Please refer to OpenCV documentation for your OS.
+- Matplotlib: Untuk visualisasi grafik secara real-time.
+Cara install: pip install matplotlib
+
+- SciPy: Untuk pemrosesan sinyal, seperti find_peaks yang ada di kode.
+Cara install: pip install scipy
