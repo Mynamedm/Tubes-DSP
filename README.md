@@ -7,6 +7,7 @@ NAMA                             | NIM             | ID Github
 
 
 Judul : Sistem Pengukuran Sinyal Respirasi dan rRPG
+
 Deskripsi : Sinyal respirasi adalah data atau informasi yang diperoleh dari proses pernapasan seseorang. Sinyal ini mencerminkan pola, ritme, dan karakteristik pernapasan, yang digunakan untuk memantau fungsi respirasi atau mendeteksi gangguan pada sistem pernapasan.
 Sinyal rRPG (Respiratory-induced Respiratory Plethysmographic) adalah sinyal yang dihasilkan dari metode respiratory plethysmography, yang digunakan untuk memantau pergerakan respirasi berdasarkan perubahan volume atau aliran udara dalam tubuh.
 
