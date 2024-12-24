@@ -1,8 +1,8 @@
-"Perangkat Lunak (Software)"
+" Perangkat Lunak (Software) "
 Python 3.x: Aplikasi ini ditulis dengan Python, jadi pengguna harus menginstal Python 3.x di sistem mereka. Versi 3.6 atau lebih tinggi dianjurkan.
 
 
-"Library yang Diperlukan:"
+" Library yang Diperlukan: "
 
 - OpenCV: Untuk mengakses kamera dan memproses frame video.
 Cara install: pip install opencv-python
