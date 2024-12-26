@@ -99,4 +99,4 @@ python app.py
    - Pastikan pencahayaan ruangan cukup
 
 
-Project ini adalah tugas mata kuliah [IF - 4021] Prodi Teknik Informatika yang diampu oleh dosen Martin Clinton Tosima Manullang, S.T., M.T.
+Project ini adalah tugas mata kuliah [IF - 3024] Prodi Teknik Informatika yang diampu oleh dosen Martin Clinton Tosima Manullang, S.T., M.T.
